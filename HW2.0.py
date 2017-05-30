@@ -1,4 +1,1 @@
-print ('Hello, world!')
-print ()
-print('This is my SECOND python code')
-print ()
+print('This is other Python code')
