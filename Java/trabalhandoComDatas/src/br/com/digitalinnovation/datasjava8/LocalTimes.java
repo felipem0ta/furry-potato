@@ -8,6 +8,6 @@ public class LocalTimes {
     public static void main(String[] args) {
         LocalTime horaAtual = LocalTime.now();
         System.out.println(horaAtual);
-        
+
     }
 }
