@@ -6,8 +6,8 @@ import java.util.stream.Stream;
 
 public class Iteracoes {
     public static void main(String[] args) {
-        /* String[] nomes = {"Felipe", "Luisa", "Hanna", "Maria", "Hanna", "Luisa"};
-        Integer[] numeros = {1,2,3,4}; */
+        String[] nomes = {"Felipe", "Luisa", "Hanna", "Maria", "Hanna", "Luisa"};
+        Integer[] numeros = {1,2,3,4};
         List<String> listaProfissoes = new ArrayList<>();
             listaProfissoes.add("Dev");
             listaProfissoes.add("Tester");
@@ -20,10 +20,10 @@ public class Iteracoes {
                         .filter(profissao -> profissao.startsWith("Gerente"))
                         .forEach(System.out::println);
 
-       // imprimirNomesFiltrados(nomes);
-       // imprimeDobro(numeros);
+       imprimirNomesFiltrados(nomes);
+       imprimeDobro(numeros);
     }
-/* 
+ 
     public static void imprimeDobro(Integer... numeros){
         Stream.of(numeros)
                 .map(numero -> numero*2)
@@ -55,7 +55,7 @@ public class Iteracoes {
         Stream.of(nomes)
             .forEach(nome -> System.out.println("Impresso usando forEach: "+ nome));
         }
-      */
+      
     }
 
 
