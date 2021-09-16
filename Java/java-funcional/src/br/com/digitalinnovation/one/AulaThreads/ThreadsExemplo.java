@@ -30,7 +30,7 @@ class GerarPDF extends Thread{
         } catch (InterruptedException e) {
             e.printStackTrace();
         } 
-        System.out.println("PDF Gerado!");
+        System.out.println("PDF Gerado! Obrigado!");
         
     }
 }
