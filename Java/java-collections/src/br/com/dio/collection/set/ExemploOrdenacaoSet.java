@@ -25,6 +25,10 @@ public class ExemploOrdenacaoSet {
         System.out.println("Ordem natural (Tempo Episódio)");
         Set<Serie> minhasTreeSeries = new TreeSet<>(minhasOrdenadasSeries);
         System.out.println(minhasTreeSeries);
+
+        System.out.println("Ordem natural (Nome)");
+        minhasOrdenadasSeries.stream().sorted(new ComparaNome());
+        System.out.println(minhasOrdenadasSeries);
     }
 }
 
@@ -54,10 +58,10 @@ class Serie implements Comparable<Serie>{
     @Override
     public String toString() {
         return "Serie{" +
-                "nome='" + nome + '\'' +
-                ", genero='" + genero + '\'' +
+                "nome='" + nome + '\n' +
+                ", genero='" + genero + '\n' +
                 ", tempoEpisodio=" + tempoEpisodio +
-                '}';
+                '}'+ '\n';
     }
 
     @Override
@@ -76,5 +80,13 @@ class Serie implements Comparable<Serie>{
     @Override
     public int compareTo(Serie serie) {
         return Integer.compare(this.getTempoEpisodio(), serie.getTempoEpisodio());
+    }
+}
+
+class ComparaNome implements Comparator<Serie>{
+
+    @Override
+    public int compare(Serie s, Serie s1) {
+        return s.getNome().compareToIgnoreCase(s1.getNome());
     }
 }
