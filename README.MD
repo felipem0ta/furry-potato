@@ -6,6 +6,7 @@ Esse é meu repositório de estudos, todos os códigos que eu uso para praticar 
 
 Atualmente eu estou estudando:
  - Java
+ - Python
  - Angular
  - JavaScript
  - React
