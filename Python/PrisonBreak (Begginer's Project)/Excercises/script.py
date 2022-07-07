@@ -17,3 +17,14 @@ avg_rating_sum = rating_sum/len(apps_data[1:])
 
 print(rating_sum)
 print(avg_rating_sum)
+
+rating_sum = []
+
+for row in apps_data[1:]:
+    rating = row[7]
+    rating_sum.append(float(rating))
+    
+print(rating_sum)
+
+avg_rating = sum(rating_sum) / len(rating_sum)
+print(avg_rating)
