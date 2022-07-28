@@ -21,16 +21,16 @@ pyautogui.press("enter")
 time.sleep(5)
 
 #Entrar na pasta "Exportar", clica com botão direito no arquivo e clica em Download
-pyautogui.doubleClick(x=-631, y=270)
+pyautogui.doubleClick(x=426, y=299)
 time.sleep(5)
-pyautogui.rightClick(x=-618, y=352)
-pyautogui.click(x=-513, y=652)
+pyautogui.rightClick(x=375, y=401)
+pyautogui.click(x=495, y=926)
 time.sleep(5)
 pyautogui.press("enter")
 
 #Importar a tabela de vendas com o pandas e calcular os indicadores
 time.sleep(3)
-tabela = pd.read_excel(r"C:\Users\felipe.mota\Downloads\Vendas - Dez.xlsx")
+tabela = pd.read_excel(r"/home/felipe/Downloads/Vendas - Dez.xlsx")
 faturamento = tabela["Valor Final"].sum()
 quantidade = tabela["Quantidade"].sum()
 
@@ -42,7 +42,7 @@ pyautogui.press("enter")
 
 time.sleep(5)
 
-pyautogui.click(x=-75, y=622)
+pyautogui.click(x=1850, y=964)
 pyautogui.write("Para: felipe.mota@iafisgroup.com\n")
 pyperclip.copy("Relatório de vendas:")
 pyautogui.hotkey("ctrl", "v")
