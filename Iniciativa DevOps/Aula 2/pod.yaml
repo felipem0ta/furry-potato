@@ -1,0 +1,39 @@
+#Grupo de APIs
+apiVersion: v1
+
+#Tipo de Objeto
+kind: Pod
+
+#Metadados do Objeto
+metadata:
+  name: meupod
+  
+#Especificações do Objeto
+spec: 
+  containers:
+    - name: web
+      image: fabricioveronez/web-page:blue
+      ports:
+        - containerPort: 80
+
+#Separar objetos
+---
+
+apiVersion: v1
+
+#Tipo de Objeto
+kind: Pod
+
+#Metadados do Objeto
+metadata:
+  name: meupod-2
+  labels:
+    app: green
+  
+#Especificações do Objeto
+spec: 
+  containers:
+    - name: web
+      image: fabricioveronez/web-page:green
+      ports:
+        - containerPort: 80
