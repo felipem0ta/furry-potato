@@ -1,0 +1,1326 @@
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18437
+ResolvedBy:fti\branf
+ResolvedOn:10/11/2023 1:06:26 PM (UTC -05:00) - America/Montreal
+Site:018BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:David LeBlond made the physical adjustments.
+
+Issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19397
+ResolvedBy:fti\branf
+ResolvedOn:10/11/2023 11:17:18 AM (UTC -05:00) - America/Montreal
+Site:032BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:after a PC reboot I was able to log in to the app, Users confirmed they now have functionality.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19388
+ResolvedBy:fti\branf
+ResolvedOn:10/11/2023 7:43:36 AM (UTC -05:00) - America/Montreal
+Site:026BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:restarted Kernel
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19265
+ResolvedBy:fti\branf
+ResolvedOn:10/9/2023 9:16:08 AM (UTC -05:00) - America/Montreal
+Site:020BR
+Summary:Acquisition Failure - Unable to Start Acquisition
+
+
+
+Resolution:Received confirmation from Ricardo Hira, issue has been resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19000
+ResolvedBy:fti\branf
+ResolvedOn:10/4/2023 12:35:14 PM (UTC -05:00) - America/Montreal
+Site:031BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:after Luciano made the proper cabling connections with the user we got a connection, we can close the tickets
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19001
+ResolvedBy:fti\branf
+ResolvedOn:10/4/2023 12:34:52 PM (UTC -05:00) - America/Montreal
+Site:031BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:after Luciano made the proper cabling connections with the user we got a connection, we can close the tickets
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19118
+ResolvedBy:fti\branf
+ResolvedOn:10/3/2023 9:06:22 AM (UTC -05:00) - America/Montreal
+Site:020BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:alignment has been corrected
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18299
+ResolvedBy:fti\branf
+ResolvedOn:10/3/2023 9:05:06 AM (UTC -05:00) - America/Montreal
+Site:010BR
+Summary:Software System Issues - System Settings - Language
+
+
+
+Resolution:system has been updated
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19078
+ResolvedBy:fti\branf
+ResolvedOn:9/29/2023 12:44:54 PM (UTC -05:00) - America/Montreal
+Site:005BR
+Summary:Acquisition Failure - Frozen During Acquisition
+
+
+
+Resolution:Issue resolved after a re start was performed
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19080
+ResolvedBy:fti\branf
+ResolvedOn:9/29/2023 9:49:00 AM (UTC -05:00) - America/Montreal
+Site:007BR
+Summary:Acquisition Failure - Frozen During Acquisition
+
+
+
+Resolution:Deployment needed to do a software patch
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18906
+ResolvedBy:fti\branf
+ResolvedOn:9/28/2023 8:58:32 AM (UTC -05:00) - America/Montreal
+Site:006BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:Comfirmed with the users, after initializing the PC and modifying the cases they were able to re synch the cases
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19077
+ResolvedBy:fti\branf
+ResolvedOn:9/28/2023 7:54:52 AM (UTC -05:00) - America/Montreal
+Site:010BR
+Summary:Software System Issues - System Settings - Language
+
+
+
+Resolution:User was added to the Portuguese keyboard list.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:19033
+ResolvedBy:fti\jpruth
+ResolvedOn:9/26/2023 3:39:39 PM (UTC -05:00) - America/Montreal
+Site:034BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:I restarted the kernel.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18292
+ResolvedBy:fti\zaror
+ResolvedOn:9/25/2023 10:04:02 AM (UTC -05:00) - Etc/GMT+5
+Site:010BR
+Summary:Hardware Failure - Monitor
+
+
+
+Resolution:On, September 25, IAFIS field technician successfully installed the replacement monitor at site 010BR Brasilia DF.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18907
+ResolvedBy:fti\branf
+ResolvedOn:9/20/2023 1:34:09 PM (UTC -05:00) - Etc/GMT+5
+Site:042BR
+Summary:Acquisition Failure - Frozen During Acquisition
+
+
+
+Resolution:re installing the AU software fixed the issue, after that they did a calibration and they able to acquire
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18841
+ResolvedBy:fti\branf
+ResolvedOn:9/19/2023 1:31:39 PM (UTC -05:00) - Etc/GMT+5
+Site:013BR
+Summary:Acquisition Failure - Frozen During Acquisition
+
+
+
+Resolution:Initialized the AU and reconnected with the PC, no issue found after, users will call us back if it returns
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18852
+ResolvedBy:fti\branf
+ResolvedOn:9/18/2023 1:03:48 PM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:issue was ResolvedBy re starting the Kernel
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18847
+ResolvedBy:fti\branf
+ResolvedOn:9/18/2023 8:06:49 AM (UTC -05:00) - Etc/GMT+5
+Site:023BR
+Summary:Boot Failure - Computer
+
+
+
+Resolution:duplicate ticket
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18487
+ResolvedBy:fti\branf
+ResolvedOn:9/18/2023 7:38:55 AM (UTC -05:00) - Etc/GMT+5
+Site:015BR
+Summary:PWS Message - Module OS_FreeDiskD went to CRITICAL
+
+
+
+Resolution:Issue temporarily ResolvedBy AIFIs team at the site with collaboration from our IT team
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18811
+ResolvedBy:fti\branf
+ResolvedOn:9/15/2023 1:14:35 PM (UTC -05:00) - Etc/GMT+5
+Site:007BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:After adding storage to DCX1-015-BR the issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18791
+ResolvedBy:fti\branf
+ResolvedOn:9/14/2023 2:46:40 PM (UTC -05:00) - Etc/GMT+5
+Site:030BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:password reset performed
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18731
+ResolvedBy:fti\branf
+ResolvedOn:9/14/2023 7:45:54 AM (UTC -05:00) - Etc/GMT+5
+Site:007BR
+Summary:Hardware Failure - Monitor
+
+
+
+Resolution:after rebooting and reconnecting the monitor, issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18603
+ResolvedBy:fti\branf
+ResolvedOn:9/7/2023 7:35:53 AM (UTC -05:00) - Etc/GMT+5
+Site:027BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:kernel re start resolved the issue
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18602
+ResolvedBy:fti\branf
+ResolvedOn:9/7/2023 6:32:40 AM (UTC -05:00) - Etc/GMT+5
+Site:034BR
+Summary:Login Failure - Domain Unavailable
+
+
+
+Resolution:issue ResolvedBy re starting the Kernel
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18251
+ResolvedBy:fti\branf
+ResolvedOn:9/5/2023 8:40:49 AM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:Issue being handled on Incident 18437
+
+same incident
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16319
+ResolvedBy:fti\branf
+ResolvedOn:9/5/2023 8:39:43 AM (UTC -05:00) - Etc/GMT+5
+Site:004BR
+Summary:Hardware Failure - Backup Device or Media
+
+
+
+Resolution:AIFIS has replaced the capacitors and the issue has been fixed
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18532
+ResolvedBy:fti\branf
+ResolvedOn:9/5/2023 8:38:15 AM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:Acquisition Failure - Image Quality
+
+
+
+Resolution:after resetting the cables for the camera, everything works fine
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18468
+ResolvedBy:fti\branf
+ResolvedOn:9/1/2023 6:08:09 AM (UTC -05:00) - Etc/GMT+5
+Site:040BR
+Summary:Acquisition Failure - Unable to Start Acquisition
+
+
+
+Resolution:Issue ResolvedBy LSS last night
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18438
+ResolvedBy:fti\branf
+ResolvedOn:8/31/2023 6:17:41 AM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Synchronization Failure - Synchronization Failed
+
+
+
+Resolution:received assistance from Jeff Ruth, issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18278
+ResolvedBy:fti\jpruth
+ResolvedOn:8/30/2023 8:22:23 AM (UTC -05:00) - Etc/GMT+5
+Site:031BR
+Summary:Acquisition Failure - Unable to Start Acquisition
+
+
+
+Resolution:Beaglebone was replaced. New incident 18389 opened to address new issues discovered by technician. System is functional with the exception of the pilot cameras.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18315
+ResolvedBy:fti\jpruth
+ResolvedOn:8/30/2023 8:07:54 AM (UTC -05:00) - Etc/GMT+5
+Site:010BR
+Summary:Connection Failure - Network
+
+
+
+Resolution:The network was configured and the system was added to the DNS
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18352
+ResolvedBy:fti\branf
+ResolvedOn:8/28/2023 8:56:57 AM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:Login Failure - Domain Unavailable
+
+
+
+Resolution:was granted permission to log into the system and did a Kernel re start, issue was resolved.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18199
+ResolvedBy:fti\jpruth
+ResolvedOn:8/22/2023 9:01:00 AM (UTC -05:00) - Etc/GMT+5
+Site:026BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:I restarted the kernel to force completion of data recovery.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17818
+ResolvedBy:fti\branf
+ResolvedOn:8/18/2023 1:11:20 PM (UTC -05:00) - Etc/GMT+5
+Site:031BR
+Summary:Application Failure - Unable to Add
+
+
+
+Resolution:No answer from users for 5 days, will re open if he reaches out
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17481
+ResolvedBy:fti\branf
+ResolvedOn:8/18/2023 1:10:37 PM (UTC -05:00) - Etc/GMT+5
+Site:034BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:David has finished the repairs and replaced 1 arduino board, he was able to perform the acquisitions fine
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18112
+ResolvedBy:fti\branf
+ResolvedOn:8/18/2023 8:50:35 AM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:Adjustment was performed to the BUX to align the view location
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:18091
+ResolvedBy:fti\branf
+ResolvedOn:8/17/2023 9:47:27 AM (UTC -05:00) - Etc/GMT+5
+Site:027BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:reset of the Kernel resolved the issue, email sent to Danilo to let him know it was fixed
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17676
+ResolvedBy:fti\branf
+ResolvedOn:8/16/2023 7:01:07 AM (UTC -05:00) - Etc/GMT+5
+Site:029BR
+Summary:Hardware Failure - Mouse / Other Peripheral
+
+
+
+Resolution:HDMI cable was delivered and replaced
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17306
+ResolvedBy:fti\branf
+ResolvedOn:8/16/2023 7:00:27 AM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Hardware Failure - Monitor
+
+
+
+Resolution:Monitor was replaced last night and new Display settings are set, we can resolve the incident
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17906
+ResolvedBy:fti\branf
+ResolvedOn:8/16/2023 6:59:29 AM (UTC -05:00) - Etc/GMT+5
+Site:021BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:resolving for now, no answer from the users at this point, I am able to log in and test the connection of the unit
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17981
+ResolvedBy:fti\branf
+ResolvedOn:8/15/2023 12:21:23 PM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Software System Issues - 3rd Party Software
+
+
+
+Resolution:after rebooting and reseating the USB it message did not return
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17771
+ResolvedBy:fti\branf
+ResolvedOn:8/10/2023 7:56:18 AM (UTC -05:00) - Etc/GMT+5
+Site:029BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:Issue was ResolvedBy local IT by replacing the switch
+
+Felipe confirmed that they now have connectivity.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17908
+ResolvedBy:fti\branf
+ResolvedOn:8/10/2023 6:42:15 AM (UTC -05:00) - Etc/GMT+5
+Site:026BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:Issue was resolved after rebooting the unit
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17870
+ResolvedBy:fti\branf
+ResolvedOn:8/9/2023 12:23:50 PM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:Correlation Failure - New Request
+
+
+
+Resolution:no further issues reported after the kernel was re started
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17761
+ResolvedBy:fti\branf
+ResolvedOn:8/4/2023 12:46:54 PM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:alignment fixed on the BUX on the Diagnostic tool
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17638
+ResolvedBy:fti\branf
+ResolvedOn:8/4/2023 12:46:13 PM (UTC -05:00) - Etc/GMT+5
+Site:022BR
+Summary:Application Failure - Unable to Add - Case
+
+
+
+Resolution:Changes were made to the Light SQL database, issue has been resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17298
+ResolvedBy:fti\branf
+ResolvedOn:8/4/2023 7:45:14 AM (UTC -05:00) - Etc/GMT+5
+Site:005BR
+Summary:Synchronization Failure - Synchronization Failed
+
+
+
+Resolution:no further incidents reported after having the machines on overnight
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17719
+ResolvedBy:fti\branf
+ResolvedOn:8/2/2023 11:52:58 AM (UTC -05:00) - Etc/GMT+5
+Site:024BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:received confirmation from Ana. the issue was ResolvedBy fixing the network issue
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17686
+ResolvedBy:fti\branf
+ResolvedOn:7/31/2023 2:32:25 PM (UTC -05:00) - Etc/GMT+5
+Site:007BR
+Summary:Correlation Failure - Call Support
+
+
+
+Resolution:cases had to be excluded first, then you can delete them
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17647
+ResolvedBy:fti\branf
+ResolvedOn:7/28/2023 11:21:49 AM (UTC -05:00) - Etc/GMT+5
+Site:012BR
+Summary:Application Failure - Unable to Save
+
+
+
+Resolution:After re starting the Kernel the issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17646
+ResolvedBy:fti\branf
+ResolvedOn:7/28/2023 11:19:30 AM (UTC -05:00) - Etc/GMT+5
+Site:012BR
+Summary:Acquisition Failure - Unable to Start Acquisition
+
+
+
+Resolution:Kernel was restarted on unit BUX1
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17614
+ResolvedBy:fti\branf
+ResolvedOn:7/27/2023 11:39:21 AM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:PWS Message - Module DBG_Is_DW_Mirror_Driver_Present went to WARNING
+
+
+
+Resolution:Mirror driver removed from the PC and rebooted
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17615
+ResolvedBy:fti\branf
+ResolvedOn:7/27/2023 11:38:52 AM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:PWS Message - Module DBG_Is_DW_Mirror_Driver_Present went to WARNING
+
+
+
+Resolution:Mirror driver removed from the PC and rebooted
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17613
+ResolvedBy:fti\branf
+ResolvedOn:7/27/2023 10:29:15 AM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:After re starting the Kernel for the BUX1 we are able to log into the app
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17266
+ResolvedBy:fti\branf
+ResolvedOn:7/20/2023 7:14:20 AM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Image Quality
+
+
+
+Resolution:Confirmed with Luciano that adjusting the shaft settings resolved the issue, the machine is now acquiring.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17408
+ResolvedBy:fti\branf
+ResolvedOn:7/18/2023 2:19:25 PM (UTC -05:00) - Etc/GMT+5
+Site:032BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:Issue has been resolved after performing a Kernel re start
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17257
+ResolvedBy:fti\branf
+ResolvedOn:7/13/2023 11:20:10 AM (UTC -05:00) - Etc/GMT+5
+Site:039BR
+Summary:Connection Failure - Disconnection
+
+
+
+Resolution:Correct IP address has been added 192.168.0.1
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17265
+ResolvedBy:fti\branf
+ResolvedOn:7/13/2023 9:47:36 AM (UTC -05:00) - Etc/GMT+5
+Site:027BR
+Summary:Login Failure - Access Denied
+
+
+
+Resolution:logged into The PC and restarted the Kernel, got confirmation from Danillo that the issue was resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17173
+ResolvedBy:fti\branf
+ResolvedOn:7/12/2023 2:38:34 PM (UTC -05:00) - Etc/GMT+5
+Site:034BR
+Summary:Software System Issues - System Unresponsive - Blue Screen
+
+
+
+Resolution:Got confirmation from Felipe today, the issue at 034 was ResolvedBy Tier 3, they able to acquire now.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17189
+ResolvedBy:fti\branf
+ResolvedOn:7/12/2023 6:53:47 AM (UTC -05:00) - Etc/GMT+5
+Site:007BR
+Summary:Hardware Failure - Computer
+
+
+
+Resolution:Got confirmation from the site, the issue has been resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16594
+ResolvedBy:fti\branf
+ResolvedOn:7/12/2023 6:51:55 AM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Hardware Failure - Computer
+
+
+
+Resolution:cables arrived at site and they were replaced, Issue has been resolved
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17048
+ResolvedBy:fti\pinee
+ResolvedOn:7/5/2023 10:43:40 AM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Application Failure - Unable to Load / View - Case
+
+
+
+Resolution:Client will make the necessary modifications to this case.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:17034
+ResolvedBy:fti\pinee
+ResolvedOn:7/5/2023 10:28:47 AM (UTC -05:00) - Etc/GMT+5
+Site:037BR
+Summary:PWS Message - Module Proc_APC_Powerchute went to CRITICAL
+
+
+
+Resolution:Agent to install the software on his next visit.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16993
+ResolvedBy:fti\pinee
+ResolvedOn:7/3/2023 11:29:36 AM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Unable to Start Acquisition
+
+
+
+Resolution:PC has been rebooted and the AU is now online.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16154
+ResolvedBy:fti\branf
+ResolvedOn:6/28/2023 6:38:16 PM (UTC -05:00) - Etc/GMT+5
+Site:032BR
+Summary:Hardware Failure - Bullet Holder, Gauge or Tips
+
+
+
+Resolution:Hi Francisco,
+Good afternoon!
+
+I wanted to let you know that the customer from the 032BR Macapa-AP site has confirmed the receipt of that part related to the ticket 16154.
+
+
+SiteID
+Priority
+Summary
+Category
+Subcategory
+Machine_Name
+Customer
+Created On
+Modified On
+Comments
+032BR 2 Hardware Failure - Bullet Holder, Gauge or Tips Hardware Failure Bullet Holder, Gauge or Tips BUX1-032-BR neiva Cardoso 5/29/2023 13:04 6/1/2023 13:13 Part in transit
+
+
+Best regards,
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16331
+ResolvedBy:fti\branf
+ResolvedOn:6/28/2023 1:40:15 PM (UTC -05:00) - Etc/GMT+5
+Site:024BR
+Summary:Connection Failure - Network
+
+
+
+Resolution:Connection is operational, no issues found on our side
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16813
+ResolvedBy:fti\branf
+ResolvedOn:6/26/2023 11:31:27 AM (UTC -05:00) - Etc/GMT+5
+Site:021BR
+Summary:Login Failure - Timing Out
+
+
+
+Resolution:isue has been ResolvedBy resetting the kernel on BUX1
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16619
+ResolvedBy:fti\branf
+ResolvedOn:6/26/2023 8:05:09 AM (UTC -05:00) - Etc/GMT+5
+Site:018BR
+Summary:Acquisition Failure - Exhibit Position / Alignment
+
+
+
+Resolution:explained that 45 caliber shells need to be acquired manually due to the size of the shells.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16656
+ResolvedBy:fti\branf
+ResolvedOn:6/26/2023 8:03:47 AM (UTC -05:00) - Etc/GMT+5
+Site:031BR
+Summary:Application Failure - Unable to Add
+
+
+
+Resolution:issue resolved after kernel re start
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16626
+ResolvedBy:fti\branf
+ResolvedOn:6/22/2023 6:34:19 AM (UTC -05:00) - Etc/GMT+5
+Site:028BR
+Summary:Application Failure - Unable to Add
+
+
+
+Resolution:[Tuesday 8:55 AM] Jeffrey Ruth
+
+If the error say LEDs think Arduinos, they control the LEDs. Look at the attachment, you can see that it shows 2 Arduinos on com port 20, not possible. I set it to show hidden and the com 21 showed up. I unistalled the hidden arduino and reassigned the com ports and then reran auinstaller in repair. I then tested using AUdiagtool. It couldn't start the tests meaning I had the com ports reversed. I went back to device manager and reversed the com ports and rebooted.
+
+Test was completed last night, no issue was found,
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16586
+ResolvedBy:fti\branf
+ResolvedOn:6/16/2023 6:27:34 AM (UTC -05:00) - Etc/GMT+5
+Site:028BR
+Summary:Login Failure - Domain Unavailable
+
+
+
+Resolution:
+Hello Francisco,
+Good evening!
+
+Based on the support provided today, the router configurations have been successfully completed, and the system is now operational. Furthermore, a meeting was held today with the laboratory's IT department to clarify any doubts regarding the network requirements for ensuring proper system functionality. The client has committed to resolving the link situation within 30 days to meet the presented requirements, and they will inform us once the necessary changes have been implemented.
+
+Thank you in advance for your prompt assistance.
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:15609
+ResolvedBy:fti\branf
+ResolvedOn:6/14/2023 2:34:45 PM (UTC -05:00) - Etc/GMT+5
+Site:020BR
+Summary:Acquisition Failure - Image Quality
+
+
+
+Resolution:After the Power supply unit was replaced by David Le blond the issue has been resolved, waiting on report to be uploaded by David
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:15164
+ResolvedBy:fti\branf
+ResolvedOn:6/12/2023 12:15:23 PM (UTC -05:00) - Etc/GMT+5
+Site:006BR
+Summary:Acquisition Failure - Frozen During Acquisition
+
+
+
+Resolution:Motor and Firmware was updated
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16290
+ResolvedBy:fti\branf
+ResolvedOn:6/6/2023 1:32:10 PM (UTC -05:00) - Etc/GMT+5
+Site:010BR
+Summary:Login Failure - Profile Issues
+
+
+
+Resolution:issue has been resolved. it was related to the BUX1 -021-BR issue
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16330
+ResolvedBy:fti\branf
+ResolvedOn:6/6/2023 7:51:10 AM (UTC -05:00) - Etc/GMT+5
+Site:021BR
+Summary:Connection Failure - Application Server
+
+
+
+Resolution:re starting the kernel on BUX1-021-BR has resolved the issue
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
+"------------------------------“Este mensaje es de un REMITENTE EXTERNO:tenga cuidado, especialmente con los enlaces y archivos adjuntos.""------------------------------
+Forensic Technology - Global Customer Support has resolved an incident with the following details:
+
+IncidentID:16150
+ResolvedBy:fti\branf
+ResolvedOn:6/1/2023 7:04:57 AM (UTC -05:00) - Etc/GMT+5
+Site:033BR
+
+Summary:Hardware Failure - Computer
+
+Resolution:No issues have been reported since Felipe reconnected the power supply. we can resolve the incident
+
+*NOTES:
+Priority 1 = system is not functional. / Priority:2 = system is partially functional
+Customer Satisfaction Survey will follow this email.
+"
